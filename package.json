@@ -43,7 +43,7 @@
     "eslint-config-prettier": "6.12.0",
     "eslint-plugin-import": "2.22.1",
     "graphql": "15.3.0",
-    "graphql-tools": "6.0.13",
+    "graphql-tools": "6.2.4",
     "husky": "4.3.0",
     "jest": "26.4.2",
     "lint-staged": "10.4.0",
@@ -58,7 +58,7 @@
     "typescript": "3.9.7"
   },
   "dependencies": {
-    "@graphql-tools/merge": "6.0.13",
+    "@graphql-tools/merge": "6.2.4",
     "@nestjs/mapped-types": "0.1.0",
     "apollo-server-core": "2.16.1",
     "chokidar": "3.4.2",
